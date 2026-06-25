@@ -1,3 +1,8 @@
+
+## 🚀 Live Demo
+[**MariaLingua Translator**](https://mariabatool869-star.github.io/CodeAlpha_MariaLingua/)
+
+
 # 🌍 MariaLingua — Maria's Global Translator
 
 A beautiful, single-file web translation tool supporting **100+ languages**.
